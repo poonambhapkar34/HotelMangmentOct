@@ -1,0 +1,20 @@
+{
+  "post": [
+    {
+      "userName": "Santosh",
+      "userMob": "9860908859",
+      "userEmail": "santosh@77Gmail.com",
+      "userPass": "23234565",
+      "gender": "male",
+      "userCheck": true,
+      "id": 2 
+    }
+  ],
+
+ "HotelDetails":[{
+
+  }]
+
+
+ 
+}
